@@ -11,6 +11,10 @@ namespace GuessingGame
 
             Console.WriteLine(message);
 
+            string farewell = "Goodbye World";
+
+            Console.WriteLine(farewell);
+
 
 
 
